@@ -19,7 +19,6 @@ cd Downloads\speech
 
 ```
 pip install SpeechRecognition
-
 ```
 
 ### Test

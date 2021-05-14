@@ -27,3 +27,7 @@ python speech.py --audio_dir hello.wav
 ```
 
 This file will recognitize the audio you have input
+
+## Run on GPU Server
+1. Clone the source code 
+

@@ -31,10 +31,10 @@ This file will recognitize the audio you have input
 ## Run on GPU Server
 1. Clone the source code 
 
-'''
+```
 git clone https://github.com/Tony001-hou/Speech-Recognition.git
 cd Speech-Recognition
-'''
+```
 
 2. Install the prerequisite package
 ```
